@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-test-"
+  site-url: "https://TowfiqDL.github.io/nbdev-test-"
+  description: "This repo is to Test nbdev tutorial about building a python package from scratch."
+  repo-branch: main
+  repo-url: "https://github.com/TowfiqDL/nbdev-test-"
